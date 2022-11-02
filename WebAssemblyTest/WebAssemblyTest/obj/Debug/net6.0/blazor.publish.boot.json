@@ -1,0 +1,39 @@
+{
+  "cacheBootResources": false,
+  "config": [ ],
+  "debugBuild": false,
+  "entryAssembly": "WebAssemblyTest",
+  "icuDataMode": 2,
+  "linkerEnabled": true,
+  "resources": {
+    "assembly": {
+      "DotNetJS.dll": "sha256-VfEmvJyKsuMwpziiIptPW\/RafZXFS7bUTRZcVXZ5acE=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-9FQP5mtiO\/sICw4KdTUYyHXSUXA+\/N0ZV5igNfE2hbo=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-4nuLKzsTW2HciAsB73T9iV2fkZFXzqZ8gwKDweQ0bQc=",
+      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-ssnGAOJKGQt8AlXtFpkHGGuqnQcW3mgdCXIBHnthYwo=",
+      "Microsoft.JSInterop.dll": "sha256-sac+obx2unweXLYg8ylZA+uqv6hDymUBkC45BJIihts=",
+      "Microsoft.JSInterop.WebAssembly.dll": "sha256-GpYgdBOIAcPOYoTEIkl\/JJ7YyNQQzrHpIzHpX3TFu3s=",
+      "System.Collections.Concurrent.dll": "sha256-k7p8xm36+CTaAPNeq\/+l86Ch+oNSXnZQhiP6ZsAF8SQ=",
+      "System.Collections.dll": "sha256-ZtzrNTG9reMF8cPKRkXtuYn\/ghXDlF2HnduOq1A9x9o=",
+      "System.Console.dll": "sha256-L2+sFr8ngLMnrR7XbaHRSUiEtHyCQMpQcKMFacXbn9w=",
+      "System.Memory.dll": "sha256-58JE6jcXxld62Vz75Q9zQqMf2XFMrqmDJHF\/kDWWyQQ=",
+      "System.Private.CoreLib.dll": "sha256-jxspKMAf4WJ5LMxy1jbnKmTMCxZrsWY\/6pNckJLbYoo=",
+      "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-mdo8QOJEgtQsE3+PcmidTRBsQtPlW9yzMsE6GpBIvIw=",
+      "System.Private.Uri.dll": "sha256-oZ5BPlFveMEEE8f8OB5WafqM54vAjpq3jCJ\/v7n\/K7g=",
+      "System.Runtime.CompilerServices.Unsafe.dll": "sha256-t+K1sq+nrjCNPa+qranb7rEWp8x+J4gOB4N09yl3P6Q=",
+      "System.Runtime.dll": "sha256-2J1MRcwePybUo+zIVIcujp+0LgjJDn5fhzihwxzFywM=",
+      "System.Text.Encodings.Web.dll": "sha256-OkPNYbkLf5h90IkyzgsClZIcnZwkLCOE+ThTsdc0b24=",
+      "System.Text.Json.dll": "sha256-Yj8ibfcL02D5LMKrb3jxYFLlGc\/dM5bJYZwbhQLUHxk=",
+      "WebAssemblyTest.dll": "sha256-KJZ2SDzYXStoHty5ayCcPEvFeFSq1cxl8dJxT4FyQP8="
+    },
+    "extensions": null,
+    "lazyAssembly": null,
+    "libraryInitializers": null,
+    "pdb": null,
+    "runtime": {
+      "dotnet.6.0.10.m5yftvzy0u.js": "sha256-KtM3Wrooexmrt5NmqvZfWoDPtNIe6wZqLopR6ToqUPg=",
+      "dotnet.wasm": "sha256-rbp\/Kz57XpMKaVoap0YLS3sN1D7cPKdTFCpoCR2YrFg="
+    },
+    "satelliteResources": null
+  }
+}
