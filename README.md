@@ -1,4 +1,4 @@
-# WebAssemplyDemo
+# WebAssemblyDemo
 
 ## Used 3rd party library
 
