@@ -1,5 +1,10 @@
 # WebAssemplyDemo
 
+## Used 3rd party library
+
+https://github.com/Elringus/DotNetJS
+
+
 ## Compile
 
 Install .Net 6. Open command prompt, cd to WebAssemplyDemo\WebAssemblyTest run 
@@ -15,3 +20,12 @@ Copy dotnet.d.ts and dotnet.js from WebAssemplyDemo\WebAssemblyTest\WebAssemblyT
 
 
 ## Run
+
+Go to root directory WebAssemplyDemo
+
+Run angular project in the command prompt with
+`
+ng serve -o
+`
+Open Console in browser and click test button
+![image](https://user-images.githubusercontent.com/116626542/199375419-f5dd3b81-4ead-4e16-9939-42e92bedfded.png)
